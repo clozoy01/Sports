@@ -18,7 +18,7 @@ python read.py
 
 Acknowledgments:
 ---------------
-Nicholas Renotte - www.youtube.com/watch?v=pG4sUNDOZFg&t=1s
+Nicholas Renotte 
   
 
 Files:
